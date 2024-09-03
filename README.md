@@ -1,4 +1,4 @@
-![logo](https://elearneresources.com/wp-content/uploads/2020/05/data-science-image.jpg)
+
 <h1 align="center">Hi 👋, I'm Shiva Yadav</h1>
 <h3 align="center">Aspiring Data Scientist |Aspiring Data Analyst from India</h3>
 <img align="right" alt="coding" width="400" src="https://granroyalleigarape.com.br/wp-content/uploads/2021/05/programmer.gif"
